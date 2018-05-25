@@ -33,7 +33,7 @@
     
     
     // 例二
-    _advertScrollView.signImages = @[@"hot", @"测试", @"activity"];
+    _advertScrollView.signImages = @[@"hot", @"", @"activity"];
     _advertScrollView.titles = @[@"京东、天猫等 app 首页常见的广告滚动视图", @"采用代理设计模式进行封装, 可进行事件点击处理", @"建议在 github 上下载"];
     _advertScrollViewTop.delegate = self;
 
